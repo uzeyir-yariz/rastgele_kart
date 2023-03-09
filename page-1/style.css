@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+    padding: 25px;
+}
+
+input{
+    width: 100%;
+    font-size: 40px;
+    padding: 10px;
+}
+
+img{
+    width: 275px;
+    height: 300px;
+}
+
+h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
